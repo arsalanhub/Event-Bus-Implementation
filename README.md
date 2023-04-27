@@ -4,3 +4,5 @@
 4. I have addressed the critical issue of persistent data storage within the event bus, guaranteeing robust and reliable communication even in the event of service failures.
 5. All events will be persisted & when the service comes up it can consume the persisted events. Thus no events will lost in the process.
 6. My proficient management of event persistence and transmission has enabled me to maintain uninterrupted communication networks, even in the face of service disruptions.
+
+<img align="center" alt="GIF" src="https://github.com/arsalanhub/Event-Bus-Implementation/img/Flagging Comment.drawio.svg" />
