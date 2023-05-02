@@ -15,3 +15,5 @@
 3. Since moderation service is down it cannot listen the event "CommentCreated"
 4. As soon as moderation service goes up it can use event bus to retrieve all the stacked
    "CommentCreated" event and perform all operation as always.
+
+Run skaffold.yaml file using `skaffold dev`
